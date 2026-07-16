@@ -47,3 +47,4 @@ All donations go straight to the wallet addresses on that page. No middleman, no
 تمام کمک‌ها مستقیم به آدرس کیف پول‌های همان صفحه می‌رسد. بدون واسطه و بدون کارمزد اضافه.
 
 </div>
+
