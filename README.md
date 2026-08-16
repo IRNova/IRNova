@@ -1,22 +1,6 @@
 <div align="center">
 
-# ⚡ IRNova
 
-### Iranian Open-Source Development Team
-
-**Building • Engineering • Innovating**
-
-<br>
-
-<img src="https://github.com/IRNova.png" width="120" alt="IRNova">
-
-<br><br>
-
-> We build open-source software and infrastructure with a focus on performance, privacy, reliability and simplicity.
-
-</div>
-
----
 
 ## 👥 Our Team
 
