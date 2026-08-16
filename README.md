@@ -1,50 +1,185 @@
-<p align="center">
-  <img src="https://github.com/IRNova.png" width="92" alt="IRNova logo">
-</p>
+<div align="center">
 
-<h1 align="center">IRNova</h1>
+# ⚡ IRNova
 
-<p align="center">
-  Open-source tools for free and private internet access on high-censorship networks.
-</p>
+### Iranian Open-Source Development Team
 
-<p align="center">
-  <a href="https://novaproxy.online">Website</a> &nbsp;|&nbsp;
-  <a href="https://t.me/irnova_proxy">Telegram</a> &nbsp;|&nbsp;
-  <a href="https://www.youtube.com/@novaproxyir">YouTube</a> &nbsp;|&nbsp;
-  <a href="https://donate.novaproxy.online">Donate</a>
-</p>
+**Building • Engineering • Innovating**
 
----
+<br>
 
-## Projects
+<img src="https://github.com/IRNova.png" width="120" alt="IRNova">
 
-| Project | What it does |
-|---|---|
-| [Nova-Proxy](https://github.com/IRNova/Nova-Proxy) | Graphical panel for Worker subscriptions with Trojan and Warp proxies, DNS settings, clean IPs and advanced routing |
-| [Nova-Proxy-App](https://github.com/IRNova/Nova-Proxy-App) | Local proxy tool with GSA, Domain Fronting, TLS fragmentation, ECH injection and smart routing |
-| [NovaRadar](https://github.com/IRNova/NovaRadar) | Desktop IP scanner that scans Cloudflare ranges with real two-phase verification |
-| [Nova-Wizard](https://github.com/IRNova/Nova-Wizard) | Local OAuth deployer for Nova Proxy, no API tokens and no third-party servers |
-| [Nova-Client](https://github.com/IRNova/Nova-Client) | Nova Proxy client application |
-| [Tools](https://github.com/IRNova/Tools) | Shell scripts and utilities |
+<br><br>
 
-## Support us
-
-Everything we build is free and open source. If our tools help you, a crypto donation keeps development going: it pays for infrastructure, testing devices and the time to ship new features.
-
-**[donate.novaproxy.online](https://donate.novaproxy.online)**
-
-All donations go straight to the wallet addresses on that page. No middleman, no fees beyond network costs.
-
-## از ما حمایت کنید
-
-<div dir="rtl">
-
-همه ابزارهای ما رایگان و اوپن‌سورس هستند. اگر این ابزارها برایتان مفید بوده‌اند، کمک مالی رمزارزی شما توسعه را زنده نگه می‌دارد: هزینه زیرساخت، دستگاه‌های تست و زمان ساخت قابلیت‌های جدید.
-
-**[donate.novaproxy.online](https://donate.novaproxy.online)**
-
-تمام کمک‌ها مستقیم به آدرس کیف پول‌های همان صفحه می‌رسد. بدون واسطه و بدون کارمزد اضافه.
+> We build open-source software and infrastructure with a focus on performance, privacy, reliability and simplicity.
 
 </div>
 
+---
+
+## 👥 Our Team
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/iiviirv">
+<img src="https://github.com/iiviirv.png" width="110" style="border-radius:50%">
+</a>
+
+### iiviirv
+
+<a href="https://github.com/iiviirv">@iiviirv</a>
+
+**Lead Developer & Maintainer**
+
+<br>
+
+🔹 Creator of **Nova Server**
+🔹 Creator of **Nova Client**
+🔹 Lead Developer of **Nova Proxy**
+🔹 Creator of **Nova Wizard — Web & Bot**
+🔹 Core Developer & Maintainer
+
+<br>
+
+<a href="https://github.com/iiviirv">
+<img src="https://img.shields.io/badge/GitHub-iiviirv-181717?style=flat-square&logo=github">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/IRNova">
+<img src="https://github.com/IRNova.png" width="110" style="border-radius:50%">
+</a>
+
+### IRNova
+
+<a href="https://github.com/IRNova">@IRNova</a>
+
+**Founder & Maintainer**
+
+<br>
+
+🔹 Creator of **Nova Proxy**
+🔹 Creator of **Nova Radar — Windows**
+🔹 Creator of **Nova Wizard — Windows**
+🔹 Product Architecture & Development
+🔹 Project Direction & Maintenance
+
+<br>
+
+<a href="https://github.com/IRNova">
+<img src="https://img.shields.io/badge/GitHub-IRNova-181717?style=flat-square&logo=github">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/Vahid-4444">
+<img src="https://github.com/Vahid-4444.png" width="110" style="border-radius:50%">
+</a>
+
+### Vahid
+
+<a href="https://github.com/Vahid-4444">@Vahid-4444</a>
+
+**Designer & Media**
+
+<br>
+
+🔹 Poster & Banner Design
+🔹 Visual Identity
+🔹 Educational Video Production
+🔹 Practical Tutorial Recording
+🔹 Creative & Media Production
+
+<br>
+
+<a href="https://github.com/Vahid-4444">
+<img src="https://img.shields.io/badge/GitHub-Vahid--4444-181717?style=flat-square&logo=github">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧩 What We Do
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">⚙️<br><b>Software Engineering</b></td>
+<td align="center">🌐<br><b>Network Infrastructure</b></td>
+<td align="center">☁️<br><b>Cloud & Servers</b></td>
+<td align="center">🔐<br><b>Privacy & Security</b></td>
+<td align="center">🤖<br><b>Automation</b></td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### Our philosophy
+
+**Simple enough to use.
+Powerful enough to matter.
+Open enough to build together.**
+
+</div>
+
+---
+
+## 💜 Support IRNova
+
+Everything we build is **free and open source**.
+
+If our work has been useful to you and you'd like to support the development, infrastructure, testing and future projects, you can support the IRNova team through our donation page.
+
+<div align="center">
+
+### ❤️ Support Open Source Development
+
+<a href="https://donate.novaproxy.online">
+
+<img src="https://img.shields.io/badge/Support%20IRNova-Donate-8B5CF6?style=for-the-badge&logo=heart&logoColor=white">
+
+</a>
+
+<br><br>
+
+**Your support helps us keep building.**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🇮🇷 IRNova
+
+**Open Source • Privacy • Freedom**
+
+<br>
+
+`Code.` `Build.` `Improve.`
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Made%20with-❤-red?style=flat-square">
+<img src="https://img.shields.io/badge/Open%20Source-IRNova-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Team-IRNova-purple?style=flat-square">
+
+</div>
