@@ -94,37 +94,7 @@
 </tr>
 </table>
 
----
 
-<div align="center">
-
-## 🧩 What We Do
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">⚙️<br><b>Software Engineering</b></td>
-<td align="center">🌐<br><b>Network Infrastructure</b></td>
-<td align="center">☁️<br><b>Cloud & Servers</b></td>
-<td align="center">🔐<br><b>Privacy & Security</b></td>
-<td align="center">🤖<br><b>Automation</b></td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### Our philosophy
-
-**Simple enough to use.
-Powerful enough to matter.
-Open enough to build together.**
-
-</div>
-
----
 
 ## 💜 Support IRNova
 
